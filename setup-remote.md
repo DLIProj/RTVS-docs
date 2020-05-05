@@ -1,3 +1,3 @@
 ---
-redirect_to: "https://docs.microsoft.com/visualstudio/rtvs/workspaces-remote-setup"
+redirect_to: "https://dliproj.github.io/RTVS-docs/"
 ---
