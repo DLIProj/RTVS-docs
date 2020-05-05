@@ -6,7 +6,7 @@ title:          R Tools for Visual Studio
 tagline:        'Awesome documentation'
 description:    'Documentation and examples for R Tools for Visual Studio'
 email:          rtvsuserfeedback@microsoft.com
-url:            "https://microsoft.github.io"
+url:            "https://dliproj.github.io/RTVS-docs"
 baseurl:        "/RTVS-docs/"
 
 author:
