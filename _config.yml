@@ -14,7 +14,7 @@ author:
     url:        https://twitter.com/john_lam
 
 github:
-    repo:       https://github.com/microsoft/RTVS-docs
+    repo:       https://github.com/DLIProj/RTVS-docs
 
 gems:
   - jekyll-redirect-from
